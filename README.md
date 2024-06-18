@@ -30,6 +30,7 @@ Vigenere Cipher Application is a simple GUI application for encrypting and decry
    git clone https://github.com/yourusername/VigenereCipherApp.git
    cd VigenereCipherApp
 2. Run the application:
+   ```bash
    python main.py
 # Usage
 ## User Interface
